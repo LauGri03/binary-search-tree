@@ -1,0 +1,8 @@
+.vscode
+bin
+build
+doc
+include
+lib
+test
+save.txt
